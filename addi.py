@@ -1,2 +1,2 @@
 
-This is my first file
+print ("this is my file")
